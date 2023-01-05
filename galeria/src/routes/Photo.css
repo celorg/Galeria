@@ -1,0 +1,15 @@
+.box{
+    margin-top: 2rem;
+    width: 90%;
+}
+.box h4{
+    font-size: 28px;
+    text-align: center;
+    margin: 1rem 0;
+}
+.box img {
+    width: 300px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}

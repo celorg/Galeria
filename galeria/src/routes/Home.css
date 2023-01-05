@@ -1,0 +1,28 @@
+.home h1{
+    font-size: 36px;
+    margin-bottom: 2rem;
+}
+.conteudo{
+    align-content: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+.foto{
+    width: 200px;
+    border: 1px solid #000;
+}
+
+.foto img{
+    width: 200px;
+}
+
+.foto h6{
+    text-align: center;
+    padding: 1rem;
+    font-size: 16px;
+    cursor: pointer;
+    color: #000;
+}

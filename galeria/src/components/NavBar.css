@@ -1,0 +1,20 @@
+.navbar {
+    background-color: #17191f;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+}
+.navbar h2 a{
+    opacity: 1;
+    cursor: pointer;
+    color: #fff;
+}
+.navbar ul{
+    display: flex;
+    gap: 1rem;
+}
+.navbar ul a{
+    color: #fff;
+    font-size: 20px;
+}
